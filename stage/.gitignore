@@ -1,0 +1,8 @@
+*.lof
+*.toc
+*.aux
+*.log
+*.bbl
+*.blg
+rapport.pdf
+slides.pdf

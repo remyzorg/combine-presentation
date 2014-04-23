@@ -1,0 +1,9 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.rel
+_mlpost.*
+*-pp.*
+paper9/
+paper9.tar.gz
